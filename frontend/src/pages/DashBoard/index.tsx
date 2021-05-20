@@ -8,7 +8,7 @@ import { Link } from "react-router-dom";
 const DashBoard = () => {
     return (
         <>
-        <Link to="/"><NavBar /></Link>
+      <NavBar />
         <div className="container">
             <h1 className="text-primary py-3">DashBoard</h1>
 
