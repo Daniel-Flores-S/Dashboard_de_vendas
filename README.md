@@ -1,6 +1,6 @@
 <h2>Dashboard_de_vendas<h2>
 Esta aplicação construída com React, consiste em abrir um dashboard a partir de dados fornecidos por um backend construído com Spring Boot.
-
+<br>
   
   
 <p align="center">
