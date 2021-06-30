@@ -1,10 +1,10 @@
 <h2>Dashboard_de_vendas<h2>
 Esta aplicação construída com React, consiste em abrir um dashboard a partir de dados fornecidos por um backend construído com Spring Boot.
 
+  
+  
 <p align="center">
   <img src="https://github.com/Daniel-Flores-S/Dashboard_de_vendas/blob/main/img/graphic.png?raw=true" alt="NLW Together 06" />
-
-  <img src="https://img.shields.io/github/stars/rocketseat-education/nlw-06-reactjs?label=stars&message=MIT&color=8257E5&labelColor=000000" alt="Stars">
 
   <img  src="https://github.com/Daniel-Flores-S/Dashboard_de_vendas/blob/main/img/table.png?raw=true" alt="License">
 </p>
